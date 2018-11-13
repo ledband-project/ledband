@@ -1,2 +1,2 @@
 # ledband
-BEEE project which is making of switch controlled led bands.
+BEEE project which includes making of switch controlled led bands.
